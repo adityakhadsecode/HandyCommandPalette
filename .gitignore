@@ -23,3 +23,4 @@ UpgradeLog*.xml
 
 ## Note: As instructed in .github/copilot-instructions.md:
 ## Do NOT ignore launchSettings.json or *.pubxml (required for MSIX deploy)
+
