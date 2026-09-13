@@ -1,0 +1,25 @@
+## Build and IDE outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Backup and upgrade logs
+Backup/
+UpgradeLog*.htm
+UpgradeLog*.xml
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/
+!**/packages.config
+
+## Note: As instructed in .github/copilot-instructions.md:
+## Do NOT ignore launchSettings.json or *.pubxml (required for MSIX deploy)

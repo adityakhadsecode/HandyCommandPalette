@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "HandyCommandPalette (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "HandyCommandPalette (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
